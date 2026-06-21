@@ -1,0 +1,7 @@
+mcp>=1.0
+pytesseract>=0.3.10
+Pillow>=10.0
+
+# Optional dependencies:
+# mss>=9.0          # for screen_ocr tool
+# pdf2image>=1.16   # for extract_text_from_pdf tool
